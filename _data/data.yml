@@ -14,10 +14,9 @@ sidebar:
 
     # Sidebar links
     email: georgievjon@gmail.com
-    phone: "+359 887 020 668"
-    address: "Veliko Tarnovo, Bulgaria"
+    phone: +359 887 020 668
+    address: Veliko Tarnovo, Bulgaria
     timezone:
-    citizenship:
     website: #do not add http://
     linkedin:
     xing:
@@ -65,7 +64,7 @@ career-profile:
     summary: |
       Software engineer with experience in development and maintaining scalable 
       software solutions. Adept at communication with other teams and product managers 
-      to define reasonable goals and development timeline.
+      to define goals and reasonable development timeline.
 
 education:
     title: Education
