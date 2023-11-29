@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: georgievjon@gmail.com
     phone: +359 887 020 668
-    address: Veliko Tarnovo/Bulgaria
+    address: Veliko Tarnovo, Bulgaria
     timezone:
     citizenship:
     website: #do not add http://
@@ -75,7 +75,7 @@ education:
     info:
       - degree: BSc in  Informatics
         university: St. Cyril and St. Methodius University of Veliko Tarnovo
-        time: 2004 - 2009
+        time: 2005 - 2009
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
