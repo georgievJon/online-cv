@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Georgi Georgiev
     tagline: Senior Software Engineer
-    avatar: profile2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile3.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: georgievjon@gmail.com
@@ -84,13 +84,32 @@ education:
 experiences:
   title: Experiences
   info:
-    - role: Software Engineer
-      time: March 2020 - Present
+    - role: Senior Software Engineer/Team Lead
+      time: May 2023 - Present
       company: Tarya Fintech Bulgaria
       details: |
-        Analyzing requirements, developing, and testing features to seamlessly align with customer needs.
-        Skilled in debugging and resolving bugs, ensuring the integrity of the overall system, integration with external systems using REST.
-        Extending the existing environment with new microservices.
+        As a Team Lead, I am responsible for small team from two developers and one QA. We developing module 
+        BNPL (Buy Now Pay Later). I am involved in regular meeting with product manager where we discuss features, 
+        describing functionalities and make planning.
+
+    - role: Senior Software Engineer/Team Lead
+      time: Oct 2020 - May 2023
+      company: Tarya Fintech Bulgaria
+      details: |
+        As a Team Lead, I was responsible for small team from three developers and one QA. We develop internal module 
+        "Bank Reconciliation" responsible for alignment between bank statement and internal system transactions.
+        We extended the existing environment with new microservices.
+
+    - role: Senior Software Engineer
+      time: March 2020 - Oct 2020
+      company: Tarya Fintech Bulgaria
+      details: |
+        As a Senior Software Engineer, I was responsible for analyzing requirements, developing, testing and debugging features 
+        to seamlessly align with customer needs.
+        
+        I was a part from Investor management project which includes: Investment settings, Financing/Trading of the loans’ investments, 
+        Investments status, Deposits and Withdraws transactions, Investor and Investor Agent Fronted dashboard(AngularJS), 
+        Investor Reporting, Notifications. 
         
         Tools:
           - Java 8/Java 11
@@ -168,7 +187,11 @@ projects:
       tagline: "Software solution for loans provided to non financial institutions."
 
     - title: TARYA Bank Reconciliation
-      tagline: "Internal module of Tarya P2P solution, responsible for alignment between bank statement and internal system transactions."
+      tagline: "Internal module of TARYA P2P, responsible for alignment between bank statement and internal system transactions."
+
+    - title: TARYA P2P
+      link: "https://www.tarya.co.il/en/invest/"
+      tagline: "Tarya is a solid investment platform that yields over time consistent positive returns to its investors."
 
     - title: Politis
       link: "https://www.clouway.com/politis"
