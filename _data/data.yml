@@ -100,7 +100,7 @@ experiences:
         As a Team Lead, I had team from 4-6 people. I was responsible for organizing development process, 
         communication with other teams, code reviews, maintain dedicated test environment, onboarding new team members.
         We develop internal module "Bank Reconciliation" for TARYA P2P, responsible for alignment between bank 
-        and internal system transactions. We extended the existing environment with new microservices.
+        and internal system transactions. We extended the existing environment with new microservices deployed on AWS.
 
     - role: Senior Software Engineer
       time: March 2020 - Oct 2020
@@ -111,7 +111,7 @@ experiences:
         
         I was a part from Investor management project which includes: Investment settings, Financing/Trading of the loans’ investments, 
         Investments status, Deposits and Withdraws transactions, Investor and Investor Agent Fronted dashboard(AngularJS), 
-        Investor Reporting, Notifications. 
+        Investor Reporting, Notifications. Deployed on AWS.
         
         Tools:
           - Java 8, Java 11
@@ -121,6 +121,7 @@ experiences:
           - Maven, Gradle
           - Bitbucket
           - Jira
+          - AWS(Amazon Web Services)
           - Microservices architecture, REST API, Open API, Event driven communication
 
     - role: Software Engineer (Full Stack)
