@@ -88,17 +88,19 @@ experiences:
       time: May 2023 - Present
       company: Tarya Fintech Bulgaria
       details: |
-        As a Team Lead, I am responsible for small team from two developers and one QA. We developing module 
-        BNPL (Buy Now Pay Later). I am involved in regular meeting with product manager where we discuss features, 
-        describing functionalities and make planning.
+        As a Team Lead, I have team from 3-4 people. I am responsible for organizing development process, 
+        communication with other teams, code reviews, maintain dedicated test environment, onboarding new team members.
+        We developing project BNPL (Buy Now Pay Later) as part of TARYA Fintech. I am involved in regular meeting with 
+        product manager where we discuss features, describing functionalities and make planning.
 
     - role: Senior Software Engineer/Team Lead
       time: Oct 2020 - May 2023
       company: Tarya Fintech Bulgaria
       details: |
-        As a Team Lead, I was responsible for small team from three developers and one QA. We develop internal module 
-        "Bank Reconciliation" responsible for alignment between bank statement and internal system transactions.
-        We extended the existing environment with new microservices.
+        As a Team Lead, I had team from 4-6 people. I was responsible for organizing development process, 
+        communication with other teams, code reviews, maintain dedicated test environment, onboarding new team members.
+        We develop internal module "Bank Reconciliation" for TARYA P2P, responsible for alignment between bank 
+        and internal system transactions. We extended the existing environment with new microservices.
 
     - role: Senior Software Engineer
       time: March 2020 - Oct 2020
@@ -112,13 +114,14 @@ experiences:
         Investor Reporting, Notifications. 
         
         Tools:
-          - Java 8/Java 11
+          - Java 8, Java 11
           - Spring Boot
           - MySQL, MongoDB
           - RabbitMQ
-          - Maven
+          - Maven, Gradle
           - Bitbucket
           - Jira
+          - Microservices architecture, REST API, Open API, Event driven communication
 
     - role: Software Engineer (Full Stack)
       time: Aug 2009 - March 2020
@@ -129,11 +132,12 @@ experiences:
         Integrate microservices architecture and event-driven communication.
         
         Tools:
-          - Java 6,7
+          - Java 6, Java 7
           - Google App Engine
           - GWT, Sitebricks, Spark, HTML & CSS, Javascript
           - Maven, Gradle
           - Git, GtiHub
+          - Microservices architecture, REST API, Event driven communication
 #certifications:
 #      title: Certifications
 #      list:
