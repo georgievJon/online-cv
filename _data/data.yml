@@ -90,8 +90,8 @@ experiences:
       details: |
         As a Team Lead, I have team from 3-4 people. I am responsible for organizing development process, 
         communication with other teams, code reviews, maintain dedicated test environment, onboarding new team members.
-        We developing project BNPL (Buy Now Pay Later) as part of TARYA Fintech. I am involved in regular meeting with 
-        product manager where we discuss features, describing functionalities and make planning.
+        I am involved in regular meeting with product manager where we discuss features, describing functionalities 
+        and make planning. We developing project BNPL (Buy Now Pay Later) as part of TARYA Fintech deployed on AWS.. 
 
     - role: Senior Software Engineer/Team Lead
       time: Oct 2020 - May 2023
@@ -100,7 +100,7 @@ experiences:
         As a Team Lead, I had team from 4-6 people. I was responsible for organizing development process, 
         communication with other teams, code reviews, maintain dedicated test environment, onboarding new team members.
         We develop internal module "Bank Reconciliation" for TARYA P2P, responsible for alignment between bank 
-        and internal system transactions. We extended the existing environment with new microservices deployed on AWS.
+        and internal system transactions. We extended the existing environment with new microservices and deploy on AWS.
 
     - role: Senior Software Engineer
       time: March 2020 - Oct 2020
